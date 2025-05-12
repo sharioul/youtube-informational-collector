@@ -21,3 +21,7 @@ Install Python (>=3.7) and pip.
 
 ```bash
 pip install -r requirements.txt
+
+
+## to run this 
+streamlit run stot_app.py
